@@ -1,11 +1,15 @@
 # Copilot Spaces DevOps Lab
 
+Supporting reference material for a product feedback submission to GitHub's Copilot Conversations forum: [Create an advanced follow-up module for Copilot Spaces on Microsoft Learn](https://github.com/orgs/community/discussions/207031).
+
 **Repository name suggestion:** `copilot-spaces-devops-lab`
 
 ## Purpose
-This repository provides a complete learning path and hands‑on lab series that extends the Microsoft Learn module *Introduction to Copilot Spaces* into an advanced, production‑oriented track for Developer Tools and DevOps practitioners. It includes reproducible labs, templates, and curated Copilot Chat prompts to teach CI/CD, IaC, dependency analysis, story refinement, PR review, and enterprise governance using Copilot Spaces.
+This repository outlines a proposed learning path and hands-on lab series that would extend the Microsoft Learn module *Introduction to Copilot Spaces* into an advanced, production-oriented track for Developer Tools and DevOps practitioners. It sketches reproducible labs, templates, and curated Copilot Chat prompts to teach CI/CD, IaC, dependency analysis, story refinement, PR review, and enterprise governance using Copilot Spaces.
 
-## Contents
+## Proposed structure
+None of the files below exist yet - this repository currently contains only this proposal.
+
 - `learn-path/` — module guides and learning objectives.
 - `labs/lab-01-devops-space/` — hands‑on lab with step‑by‑step exercises.
 - `.github/workflows/ci.yml` — example multi‑stage pipeline.
