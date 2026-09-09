@@ -114,12 +114,3 @@ labs/lab-01-devops-space/examples/sample-prs/README.md
 analysis/dependency-report.md
 playbooks/ci-troubleshooting.md
 ```
-
----
-
-**Next steps I can do for you:**  
-- Generate the `labs/lab-01-devops-space/README-lab.md` file (full step‑by‑step lab).  
-- Produce a ready‑to‑commit `scripts/check-deps.sh`.  
-- Create a sample `.github/workflows/ci.yml` pipeline file.
-
-Tell me which file you want first and I’ll generate it in full.  
